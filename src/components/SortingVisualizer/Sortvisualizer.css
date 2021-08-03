@@ -1,0 +1,56 @@
+.array-bar {
+  width: 4px;
+  display: inline-block;
+  margin: 0 3px;
+  background-color: turquoise;
+}
+
+.array-container {
+  width: fit-content;
+  margin: 0 auto;
+}
+
+.dashboard {
+  background-color: rgb(7, 79, 97);
+  align-content: center;
+  padding: 20px 7%;
+  height: fit-content;
+  width: fit-content;
+  border: none;
+  border-radius: 20px;
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.selectAlg {
+  display: flex;
+}
+
+.buttonNav {
+  margin-top: 15px;
+  margin-left: 40px;
+}
+
+.buttonNav button {
+  margin: 5px 10px;
+  border: 2px solid white;
+}
+
+.subButton {
+  border: 2px solid #24252a;
+}
+
+.pavement {
+  width: 2px;
+  display: inline-block;
+  margin: 9px 10px;
+  background-color: black;
+}
+
+.size {
+  margin-top: 15px;
+}
+.speed {
+  margin-left: 10px;
+  margin-top: 15px;
+}
